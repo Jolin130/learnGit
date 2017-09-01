@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch 'dev'.
 Creating a new branch 'div'.
 Creating a new branck is quick and simple.
+add merge.
 
