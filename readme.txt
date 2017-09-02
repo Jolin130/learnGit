@@ -7,4 +7,3 @@ Creating a new branch 'div'.
 Creating a new branck is quick and simple.
 add merge.
 git stash.
-
