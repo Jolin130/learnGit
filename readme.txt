@@ -9,5 +9,4 @@ add merge.
 git stash.
 add branch dev.
 add bracch dev1.
-readme.txt origin
-
+readme.txt origin.
