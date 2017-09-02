@@ -8,3 +8,4 @@ Creating a new branck is quick and simple.
 add merge.
 git stash.
 add branch dev.
+add bracch dev1.
